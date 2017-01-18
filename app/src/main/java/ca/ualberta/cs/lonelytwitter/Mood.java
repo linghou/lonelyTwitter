@@ -3,7 +3,7 @@ package ca.ualberta.cs.lonelytwitter;
 /**
  * Created by linghou on 2017/1/18.
  */
-import java .util.Date;
+import java.util.Date;
 
 public abstract class Mood {
     private Date date;
